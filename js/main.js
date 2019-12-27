@@ -1,12 +1,3 @@
-// File:          ~/bduarte/public_html/Pages/Assignments/Pages/Assignment4/js/main.js
-// Author:        Braulio Duarte
-// Email:         Braulio_Duarte@student.uml.edu
-// Title:         Student at UML, class COMP 4610 Section 201
-// Assignment:    Assignment 8
-//Date created:  12-6-2019
-//Last Modified: 11-9-2019
-// Description:   This page generates a dynamic multiplication table using Javascript
-
 const processBtn = document.getElementById("processBtn");
 const input1 = document.getElementById("horizontal-input-1");
 const input2 = document.getElementById("horizontal-input-2");
